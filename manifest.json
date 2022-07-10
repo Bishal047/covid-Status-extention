@@ -1,0 +1,15 @@
+{
+    "name": "Covid-19 Stats UK",
+    "version": "1.0.0",
+    "description": "latest covid data of UK",
+    "manifest_version": 3,
+    "author": "BISHAL YADAV",
+    "action":{
+        "default_icon": "corona128.PNG",
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report UK"
+    },
+    "icons": {
+        "128": "corona128.PNG"
+    }
+}
